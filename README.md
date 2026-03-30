@@ -100,9 +100,16 @@ Open `Song2Vec.ipynb` in Jupyter or Google Colab. Set `BASE_PATH` to the directo
 ```
 Song2Vec.ipynb          # Main notebook
 README.md               # This file
+Song2Vec_Report.pdf     # Report 
 ```
 
 Saved model files (`baseline_model.model`, `final_model.model`) and processed data pickles are not included due to size.
+
+## Report
+
+A detailed analysis report including methodology, hyperparameter experiments, 
+qualitative analysis, cold-start analysis, and failure analysis is available 
+in [`Song2Vec_Report.pdf`](Song2Vec_Report.pdf).
 
 ---
 
